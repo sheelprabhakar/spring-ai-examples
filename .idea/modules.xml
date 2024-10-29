@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenAiExample.iml" filepath="$PROJECT_DIR$/OpenAiExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cd/OpenAiExample.cd.iml" filepath="$PROJECT_DIR$/.idea/modules/cd/OpenAiExample.cd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenAiExample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenAiExample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenAiExample.test.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenAiExample.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-ai-examples.iml" filepath="$PROJECT_DIR$/.idea/spring-ai-examples.iml" />
+    </modules>
+  </component>
+</project>
